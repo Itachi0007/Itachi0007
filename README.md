@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Itachi0007
 - 👀 I’m interested in Web development as I have been working as a back-end developer for quite a while now.
-- 🌱 I’m currently learning front-end development to become a full-stack developer.
+- 🌱 I’m currently reading about blockchain development.
 - 💞️ I’m looking to collaborate on MEAN / MEARN stack.
 - 📫 How to reach me - ahmer.mehmood191@gmail.com
 
