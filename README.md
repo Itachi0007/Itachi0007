@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Itachi0007
-- 👀 I’m interested in Web development as I have been working as a back-end developer for quite a while now.
+- 👀 I’m interested in Web development and have been working as a back-end developer since 2 years.
 - 🌱 I’m currently reading about blockchain development.
-- 💞️ I’m looking to collaborate on MEAN / MEARN stack.
+- 💞️ I’m open to collaborate on MERN stack and SpringBoot.
 - 📫 How to reach me - ahmer.mehmood191@gmail.com
 
 <!---
